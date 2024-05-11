@@ -1,0 +1,8 @@
+# ignore vscode directory
+.vscode/
+
+# ignore compiled executable
+nimshot.exe
+
+# ignore output images
+#*.png
